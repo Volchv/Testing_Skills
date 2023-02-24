@@ -1,5 +1,4 @@
 # Testing_Skills
-<b>Testing skills + Python – Homework</b>
 
 Whole program consist of 3 python files:
 <ul>
